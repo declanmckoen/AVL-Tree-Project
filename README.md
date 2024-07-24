@@ -18,8 +18,8 @@ Catch2 framework for running unit tests.
 
 
 Clone the repository:
-git clone https://github.com/declanmckoen/avl-tree.git
-cd avl-tree
+git clone https://github.com/declanmckoen/AVL-Tree-Project.git
+cd AVL-Tree-Project
 
 
 Compile the source files:
