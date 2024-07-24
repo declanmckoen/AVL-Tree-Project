@@ -23,17 +23,20 @@ Catch2 framework for running unit tests.
 
 
 Clone the repository:
+```sh
 git clone https://github.com/declanmckoen/AVL-Tree-Project.git
 cd AVL-Tree-Project
-
+```
 
 Compile the source files:
+```sh
 g++ -std=c++11 -o avl_tree main.cpp AVL.cpp
-
+```
 
 Execute the compiled program:
+```sh
 ./avl_tree
-
+```
 
 The main.cpp file provides a simple user interface to interact with the AVL tree. You can modify this file to suit your needs or to add more functionality.
 
